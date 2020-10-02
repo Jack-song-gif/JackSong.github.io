@@ -15,10 +15,10 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: JackSong/JackSong.github.io
+github_url: https://github.com/JackSong
+url: http://www.JackSong.com
+enforce_ssl: JackSong.com
 
 ## Gem
 plugins:
@@ -239,19 +239,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: JackSong
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: JackSong
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: dedadba24d0fcce0c204
+        client_secret: c19d62a6517dcb5c0cedf9cef234dbb6cde479a4
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: JackSong
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: dedadba24d0fcce0c204
+    clientSecret: c19d62a6517dcb5c0cedf9cef234dbb6cde479a4
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
